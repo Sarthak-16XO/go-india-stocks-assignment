@@ -1,6 +1,4 @@
 'use client';
-import { Dropdown, SidebarLink } from '@/components';
-import { IoIosArrowForward } from 'react-icons/io';
 import { FaBell } from 'react-icons/fa';
 import { HiUser } from 'react-icons/hi';
 import { useState } from 'react';
